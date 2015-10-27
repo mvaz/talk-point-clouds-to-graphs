@@ -1,13 +1,14 @@
 # Talk "From point clouds to graphs"
 
 
-()[http://www.meetup.com/Dusseldorf-Data-Science-Meetup/events/225280000/]
+### References
 
+[Bart Baddeley's talk at PyData 2014](http://nbviewer.ipython.org/github/BartBaddeley/PyDataTalk-2014/blob/master/PyDataTalk.ipynb)
+[Duesseldorf Data Science Meetup](http://www.meetup.com/Dusseldorf-Data-Science-Meetup/events/225280000/)
 
+[Tutorial on Spectral Clustering](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Luxburg07_tutorial_4488%5B0%5D.pdf)
 
-http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Luxburg07_tutorial_4488%5B0%5D.pdf
-
-http://setosa.io/ev/eigenvectors-and-eigenvalues/
+[Visual explanation of Eigenvalues and Eigenvectors](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 
 Spectral Clustering
