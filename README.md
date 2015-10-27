@@ -11,6 +11,7 @@
 [Visual explanation of Eigenvalues and Eigenvectors](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 
+```
 Spectral Clustering
 @article{ng2002spectral,
   title={On spectral clustering: Analysis and an algorithm},
@@ -21,3 +22,4 @@ Spectral Clustering
   year={2002},
   publisher={MIT; 1998}
 }
+```
